@@ -1,0 +1,18 @@
+{
+  "name": "tonik",
+  "description": "Mods from Tonik's free course Claude Code for product designers",
+  "owner": {
+    "name": "Tonik"
+  },
+  "plugins": [
+    {
+      "name": "git-graph",
+      "source": "./",
+      "description": "A pane beside the chat that draws the repository's git commit graph and keeps it up to date",
+      "version": "0.1.0",
+      "author": {
+        "name": "Tonik"
+      }
+    }
+  ]
+}

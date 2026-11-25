@@ -1,0 +1,9 @@
+{
+  "name": "git-graph",
+  "version": "0.1.0",
+  "description": "A pane beside the chat that draws the repository's git commit graph and keeps it up to date",
+  "author": {
+    "name": "Tonik"
+  },
+  "types": "./types/index.d.ts"
+}
