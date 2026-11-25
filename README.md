@@ -6,7 +6,19 @@ Made for Tonik's free video course **Claude Code for product designers**.
 
 ## Install
 
-In a terminal:
+Needs Claude Code 2.1.286 or newer.
+
+### In a Claude Code session
+
+In the Claude desktop app or Claude Code on the web, type this in the chat box and send it:
+
+```text
+/plugin install git-graph --marketplace tonik/claude-code-git-graph
+```
+
+Pick where to install it, then start a new session.
+
+### In a terminal
 
 ```bash
 claude plugin marketplace add tonik/claude-code-git-graph
@@ -16,7 +28,7 @@ claude plugin marketplace add tonik/claude-code-git-graph
 claude plugin install git-graph@tonik
 ```
 
-Then start a new session. Needs Claude Code 2.1.286 or newer.
+Then start a new session.
 
 ## Use
 
